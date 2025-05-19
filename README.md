@@ -1,6 +1,6 @@
 # GLVD: Guided Learned Vertex Descent
 
-GLVD [website](https://crisalixsa.github.io/rethined/).
+GLVD [website](https://crisalixsa.github.io/glvd/).
 
 ## Development
 
