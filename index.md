@@ -37,5 +37,10 @@ Optimization-based methods are considered state-of-the-art for face reconstructi
 ## BibTeX
 
 ```
-@article{}
+@article{rico2025glvd,
+  title={GLVD: Guided Learned Vertex Descent},
+  author={Rico, Pol Caselles and Noguer, Francesc Moreno},
+  journal={arXiv preprint arXiv:2510.06046},
+  year={2025}
+}
 ```
